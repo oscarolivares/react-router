@@ -1,0 +1,22 @@
+.Header nav {
+  color: white;
+  padding: 0 2rem;
+  background: darkcyan;
+}
+
+.Header h2,
+.Header li {
+  display: inline-block;
+}
+
+.Header ul {
+  float: right;
+}
+
+.Header li {
+  margin: 0.5rem;
+}
+
+.Header a {
+  color: white;
+}
